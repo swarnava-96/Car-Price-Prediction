@@ -19,7 +19,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ## Directory Tree 
 ```
 
-├── template
+├── templates
 │   ├── index.html
 ├── Procfile
 ├── README.md
