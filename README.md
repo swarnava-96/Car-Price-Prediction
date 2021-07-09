@@ -53,9 +53,8 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 https://carpredix.herokuapp.com/
 
-![image](https://user-images.githubusercontent.com/75041273/125003619-36326580-e075-11eb-92f2-ffb8ff49e9d0.png)
+![image](https://user-images.githubusercontent.com/75041273/125059567-13ca3780-e0c9-11eb-9967-c003aa73db09.png)
 
-![image](https://user-images.githubusercontent.com/75041273/125003576-1f8c0e80-e075-11eb-87e3-46445e03c34f.png)
 
 
 
