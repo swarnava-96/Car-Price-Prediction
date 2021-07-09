@@ -3,14 +3,9 @@
 ## DATASET:
 https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
 
-https://carpredix.herokuapp.com/
-
-![image](https://user-images.githubusercontent.com/75041273/125003619-36326580-e075-11eb-92f2-ffb8ff49e9d0.png)
-
-![image](https://user-images.githubusercontent.com/75041273/125003576-1f8c0e80-e075-11eb-87e3-46445e03c34f.png)
 
 ## Deployement on Heroku
-Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
+Login or signup in order to create virtual app. You can either connect your github profile or download Hroku CLI to manually deploy this project.
 
 [![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
 
@@ -29,6 +24,12 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── requirements.txt
 ```
 
+
+https://carpredix.herokuapp.com/
+
+![image](https://user-images.githubusercontent.com/75041273/125003619-36326580-e075-11eb-92f2-ffb8ff49e9d0.png)
+
+![image](https://user-images.githubusercontent.com/75041273/125003576-1f8c0e80-e075-11eb-87e3-46445e03c34f.png)
 
 
 
