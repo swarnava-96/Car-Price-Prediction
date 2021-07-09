@@ -3,7 +3,7 @@
 ## Overview
 This is a Flask web app which predicts price of cars.
 
-## DATASET:
+## Dataset:
 https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
 
 This dataset contains information about used cars.
